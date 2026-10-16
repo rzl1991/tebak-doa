@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title">
+  <title id="title">Air mengalir untuk berwudu</title>
+  <rect x="20" y="18" width="200" height="124" rx="28" fill="#e6f5f8"/>
+  <path d="M74 46h78q15 0 15 15v9h-14v-9H87v27h66q18 0 18 18v15H74z" fill="#88b8c7"/>
+  <path d="M108 72q-8 15 0 23m22-23q-8 15 0 23" fill="none" stroke="#55a8c9" stroke-linecap="round" stroke-width="6"/>
+  <path d="M85 107q35 14 70 0" fill="none" stroke="#55a8c9" stroke-linecap="round" stroke-width="6"/>
+  <path d="M58 126h126" stroke="#77ba8c" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="103" cy="109" r="3" fill="#fff"/>
+  <circle cx="139" cy="113" r="3" fill="#fff"/>
+</svg>

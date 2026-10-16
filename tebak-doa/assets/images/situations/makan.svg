@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title">
+  <title id="title">Makanan tersaji di meja</title>
+  <rect x="20" y="22" width="200" height="116" rx="28" fill="#fff4d8"/>
+  <path d="M47 113h146" stroke="#b9754c" stroke-linecap="round" stroke-width="8"/>
+  <path d="M65 75h110q-5 40-55 40T65 75Z" fill="#80c99b"/>
+  <ellipse cx="120" cy="75" fill="#fff" rx="57" ry="15"/>
+  <ellipse cx="120" cy="72" fill="#ffcf70" rx="38" ry="9"/>
+  <circle cx="102" cy="70" r="5" fill="#e98352"/>
+  <circle cx="126" cy="73" r="5" fill="#e98352"/>
+  <circle cx="141" cy="69" r="4" fill="#72ae64"/>
+  <path d="M48 57v36m-7-36v16m14-16v16M188 57v36" fill="none" stroke="#62799e" stroke-linecap="round" stroke-width="5"/>
+  <path d="M39 74h18" stroke="#62799e" stroke-width="5"/>
+</svg>

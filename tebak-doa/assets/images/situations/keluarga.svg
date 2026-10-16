@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title">
+  <title id="title">Keluarga berkumpul dengan gembira</title>
+  <rect x="20" y="18" width="200" height="124" rx="28" fill="#fff2df"/>
+  <circle cx="83" cy="69" r="20" fill="#e9b28a"/>
+  <circle cx="157" cy="69" r="20" fill="#dca078"/>
+  <circle cx="120" cy="88" r="17" fill="#f0c397"/>
+  <path d="M55 126q2-37 28-37 28 0 30 37m3 0q2-28 4-28 25 0 27 28m2 0q2-37 28-37 25 0 28 37" fill="#77b78a"/>
+  <path d="M73 73q10 9 20 0m54 0q10 9 20 0m-35 24q8 7 16 0" fill="none" stroke="#754f48" stroke-linecap="round" stroke-width="4"/>
+  <path d="M66 47q17-19 34 0m38 0q17-19 34 0" fill="none" stroke="#86614b" stroke-linecap="round" stroke-width="7"/>
+</svg>

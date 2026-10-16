@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title">
+  <title id="title">Pintu kamar mandi</title>
+  <rect x="20" y="18" width="200" height="124" rx="28" fill="#e9f6e9"/>
+  <path d="M75 126V42q0-12 12-12h67v96z" fill="#f3d59a" stroke="#b98a4f" stroke-width="5"/>
+  <path d="M88 48h50v77H88z" fill="#d9eef4"/>
+  <circle cx="145" cy="86" r="4" fill="#8b6b3e"/>
+  <path d="M56 126h130" stroke="#74b98a" stroke-linecap="round" stroke-width="8"/>
+  <path d="M161 53h24v32h-24z" fill="#fff" stroke="#85b9c1" stroke-width="4"/>
+  <path d="M166 61h14m-14 8h14" stroke="#85b9c1" stroke-width="3" stroke-linecap="round"/>
+</svg>

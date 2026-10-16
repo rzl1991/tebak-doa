@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title">
+  <title id="title">Awan hujan yang menyirami tanaman</title>
+  <rect x="20" y="18" width="200" height="124" rx="28" fill="#e9f5f7"/>
+  <path d="M67 77q0-19 20-19 8-25 34-17 13 4 16 18 20-7 28 11 9 22-14 27H81q-14-3-14-20Z" fill="#fff"/>
+  <path d="m91 101-7 18m34-18-7 18m35-18-7 18" stroke="#60afd0" stroke-linecap="round" stroke-width="6"/>
+  <path d="M65 129h111" stroke="#78b985" stroke-linecap="round" stroke-width="8"/>
+  <path d="M118 129v-22m0 10-12-9m12 14 12-11" fill="none" stroke="#63a875" stroke-linecap="round" stroke-width="5"/>
+  <circle cx="174" cy="44" r="9" fill="#ffd66b"/>
+</svg>

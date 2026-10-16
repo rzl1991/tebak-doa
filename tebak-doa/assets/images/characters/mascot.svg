@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-labelledby="title">
+  <title id="title">Maskot bintang ceria</title>
+  <path fill="#ffd66b" d="m120 10 28 61 67 7-50 45 14 66-59-34-59 34 14-66-50-45 67-7z"/>
+  <circle cx="98" cy="107" r="6" fill="#263b67"/>
+  <circle cx="142" cy="107" r="6" fill="#263b67"/>
+  <path d="M101 131q19 18 38 0" fill="none" stroke="#263b67" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="80" cy="125" r="8" fill="#f39a87" opacity=".8"/>
+  <circle cx="160" cy="125" r="8" fill="#f39a87" opacity=".8"/>
+  <path fill="#fff" d="m38 42 5 12 13 1-10 8 3 13-11-7-11 7 3-13-10-8 13-1z"/>
+  <path fill="#fff" d="m194 35 4 9 10 1-8 6 3 10-9-5-8 5 2-10-7-6 10-1z"/>
+</svg>

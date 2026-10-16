@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title">
+  <title id="title">Masjid dengan kubah dan menara</title>
+  <rect x="20" y="18" width="200" height="124" rx="28" fill="#edf5e9"/>
+  <path d="M62 75q58-61 116 0v53H62z" fill="#f0ca7b"/>
+  <path d="M95 75q25-45 50 0v53H95z" fill="#fff4d5"/>
+  <path d="M43 62V35h17v93H43zm137 0V35h17v93h-17z" fill="#83b991"/>
+  <path d="M39 35h25l-12-15zm133 0h25l-12-15z" fill="#d59c4d"/>
+  <path d="M108 128V99q12-21 24 0v29" fill="#76a8c8"/>
+  <path d="M49 128h142" stroke="#78b985" stroke-linecap="round" stroke-width="8"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo Tebak Doa">
+  <rect width="64" height="64" rx="18" fill="#1e7a50"/>
+  <path fill="#f2c14e" d="M40 12a22 22 0 1 0 0 40 17 17 0 1 1 0-40z"/>
+  <path fill="#fff" d="m44 22 2.6 5.6 6 .7-4.5 4.1 1.2 6-5.3-3-5.3 3 1.2-6-4.5-4.1 6-.7z"/>
+</svg>

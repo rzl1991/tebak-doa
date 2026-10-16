@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title">
+  <title id="title">Buku terbuka untuk membaca dan berdoa</title>
+  <rect x="20" y="18" width="200" height="124" rx="28" fill="#f3f0df"/>
+  <path d="M51 54q33-12 69 5v63q-36-17-69-5z" fill="#fff" stroke="#78a885" stroke-width="4"/>
+  <path d="M189 54q-33-12-69 5v63q36-17 69-5z" fill="#fff" stroke="#78a885" stroke-width="4"/>
+  <path d="M120 59v63" stroke="#78a885" stroke-width="4"/>
+  <path d="M64 71q20-5 40 2m-40 12q20-5 40 2m38-14q20-7 39-2m-39 18q20-7 39-2" fill="none" stroke="#c1d3bb" stroke-linecap="round" stroke-width="3"/>
+  <path d="m120 30 4 10 11 1-8 7 3 11-10-6-10 6 3-11-8-7 11-1z" fill="#edc76c"/>
+  <path d="M47 126h146" stroke="#b28a51" stroke-linecap="round" stroke-width="6"/>
+</svg>
